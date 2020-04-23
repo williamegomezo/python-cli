@@ -6,7 +6,9 @@ First and unique time setup:
 
 Run to export the alias: 
 
-`alias python-custom=`pwd`/main`
+```
+alias python-custom=`pwd`/main
+```
 
 
 2. Development:
