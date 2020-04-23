@@ -1,4 +1,4 @@
 
 First and unique time setup:
 
-sh install.sh
+  sh install.sh
